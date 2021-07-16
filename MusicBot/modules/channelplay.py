@@ -32,30 +32,30 @@ from pyrogram.types import Voice
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
-from DaisyXMusic.modules.play import generate_cover
-from DaisyXMusic.modules.play import arq
-from DaisyXMusic.modules.play import cb_admin_check
-from DaisyXMusic.modules.play import transcode
-from DaisyXMusic.modules.play import convert_seconds
-from DaisyXMusic.modules.play import time_to_seconds
-from DaisyXMusic.modules.play import changeImageSize
-from DaisyXMusic.config import BOT_NAME as bn
-from DaisyXMusic.config import DURATION_LIMIT
-from DaisyXMusic.config import UPDATES_CHANNEL as updateschannel
-from DaisyXMusic.config import que
-from DaisyXMusic.function.admins import admins as a
-from DaisyXMusic.helpers.errors import DurationLimitError
-from DaisyXMusic.helpers.decorators import errors
-from DaisyXMusic.helpers.admins import get_administrators
-from DaisyXMusic.helpers.channelmusic import get_chat_id
-from DaisyXMusic.helpers.decorators import authorized_users_only
-from DaisyXMusic.helpers.filters import command, other_filters
-from DaisyXMusic.helpers.gets import get_file_name
-from DaisyXMusic.services.callsmusic import callsmusic
-from DaisyXMusic.services.callsmusic.callsmusic import client as USER
-from DaisyXMusic.services.converter.converter import convert
-from DaisyXMusic.services.downloaders import youtube
-from DaisyXMusic.services.queues import queues
+from MusicBot.modules.play import generate_cover
+from MusicBot.modules.play import arq
+from MusicBot.modules.play import cb_admin_check
+from MusicBot.modules.play import transcode
+from MusicBot.modules.play import convert_seconds
+from MusicBot.modules.play import time_to_seconds
+from MusicBot.modules.play import changeImageSize
+from MusicBot.config import BOT_NAME as bn
+from MusicBot.config import DURATION_LIMIT
+from MusicBot.config import UPDATES_CHANNEL as updateschannel
+from MusicBot.config import que
+from MusicBot.function.admins import admins as a
+from MusicBot.helpers.errors import DurationLimitError
+from MusicBot.helpers.decorators import errors
+from MusicBot.helpers.admins import get_administrators
+from MusicBot.helpers.channelmusic import get_chat_id
+from MusicBot.helpers.decorators import authorized_users_only
+from MusicBot.helpers.filters import command, other_filters
+from MusicBot.helpers.gets import get_file_name
+from MusicBot.services.callsmusic import callsmusic
+from MusicBot.services.callsmusic.callsmusic import client as USER
+from MusicBot.services.converter.converter import convert
+from MusicBot.services.downloaders import youtube
+from MusicBot.services.queues import queues
 
 chat_id = None
 
