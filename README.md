@@ -1,4 +1,4 @@
-# MusicBot
+# Tesla MusicBot
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
@@ -130,6 +130,6 @@ If you donlt like to play in linked channel:
 
 ### Special Thanks to :
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- 
+
 >> This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Tesla Music Bot won't exist. 
 >> Tesla Music Bot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @TeslaMusicRoBot users.
