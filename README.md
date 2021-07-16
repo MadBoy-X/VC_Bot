@@ -3,6 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Available on telegram as [@TeslaMusicRoBot](https://telegram.me/TeslaMusicRoBot)
+### UserBot Helper : [@TeslaMusicPlayer](https://telegram.me/TeslaMusicPlayer)
 
 <p align="center">
   <img src="https://media.giphy.com/media/S7jznj1TlqH9otxZux/giphy.gif">
