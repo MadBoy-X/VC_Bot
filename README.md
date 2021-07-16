@@ -5,7 +5,7 @@
 ### Available on telegram as [@TeslaMusicRoBot](https://telegram.me/TeslaMusicRoBot)
 
 <p align="center">
-  <img src="./etc/Tesla.mp4">
+  <img src="https://media.giphy.com/media/S7jznj1TlqH9otxZux/giphy.gif">
 </p>
 
 <h2> Features 🔥 </h2>
