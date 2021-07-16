@@ -35,7 +35,7 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/MadBoy-X/MusicBot
-$ cd DaisyXMusic
+$ cd MusicBot
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
@@ -92,8 +92,8 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
- 4. add helper to channel
+ 3. Add @TeslaMusicRoBot as Channel admin with full perms
+ 4. Add helper to channel
  5. Simply send commands in your group.
 
 ### Commands for Sudo Users ⚔️
@@ -107,13 +107,12 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 # Credits 😊
-## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
+## • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a> {DEV}
 
-## • PRANAV  »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/Pranav-625D5D?logo=github" /></a>
+## • PRANAV  »»  <a href="https://github.com/Pranav18262" alt="Pranav"> <img src="https://img.shields.io/badge/Pranav-625D5D?logo=github" /></a> {DEV}
 
-### Special Credits ->
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
+### Special Credits --
 - [InukaASiTH](https://github.com/InukaAsith)
 - [Technical-Hunter](https://github.com/Technical-Hunter)
 - [Rojserbest](http://github.com/rojserbes)
@@ -123,11 +122,13 @@ If you donlt like to play in linked channel:
 - [lucifeermorningstar](https://github.com/lucifeermorningstar)
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
 - [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
+- [Anjana-Ma](https://github.com/Anjana-Ma)
+- [ImJanindu](https://github.com/ImJanindu)
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
 
-
+### Special Thanks to :
+- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+- 
 >> This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Tesla Music Bot won't exist. 
 >> Tesla Music Bot is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @TeslaMusicRoBot users.
